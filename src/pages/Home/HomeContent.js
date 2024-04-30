@@ -6,7 +6,7 @@ const HomeContent = () => {
   return (
     <div className="container mx-auto px-4 py-8 flex flex-col items-center">
       <div className="mb-20">
-        <h1 className="text-4xl text-center font-bold mb-14">As an aspiring React developer and skilled video editor, I'm primed to collaborate with clients worldwide, bringing creativity and innovation to every project</h1>
+        <h1 className="lg:text-6xl text-4xl sm:text-5xl text-center font-sans mx-auto max-w-2xl mt-20 mb-14">Building modern web apps, one line of code at a time. Junior web developer</h1>
       </div>
 
       {/* Image grid */}
